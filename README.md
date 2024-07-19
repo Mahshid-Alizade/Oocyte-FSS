@@ -13,6 +13,14 @@ We provide a PyTorch implementation of a relation network for binary and multi-c
 
 ## Getting Started
 ### Training
+First rewrite ```def generate_dataset_folder_structure()``` in ```train.py```, then run
 
+```
+python train.py
+```
 ### Testing
+After defining the directory of support and query set, run
 
+```
+python test.py
+```
