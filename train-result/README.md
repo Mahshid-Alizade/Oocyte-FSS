@@ -1,7 +1,7 @@
 Training results will be saved in this location.
 
 ## O train result
-<img src='example/o_train.png' align="left">
+<img src='Oocyte-FSS/example/o_train.png' align="left">
 
 ## P train result
 <img src='example/p_train.png' align="left">
