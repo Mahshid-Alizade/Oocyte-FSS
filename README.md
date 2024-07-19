@@ -12,4 +12,7 @@ We provide a PyTorch implementation of a relation network for binary and multi-c
 - plus binary and multi-label masks of each image
 
 ## Getting Started
-###
+### Training
+
+### Testing
+
